@@ -1,7 +1,5 @@
 ### Hi there, my name is Alexandre 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Nothing! 😆 If you got any work oportunities, feel free to contact me! (email below)
 - 🌱 I’m currently learning Docker, SQL and Back End basics...
 - 👯 I’m looking to collaborate on Front End projects such as React or Vanilla JS
@@ -28,4 +26,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/alexandrelemes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  -ReadMe inspired by https://github.com/rafaballerini
+  <br>
+  
+  <p>Read Me inspired by <a href="https://github.com/rafaballerini">Rafa Ballerini</a></p>
