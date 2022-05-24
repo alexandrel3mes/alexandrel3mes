@@ -1,6 +1,6 @@
 ### Hi there, my name is Alexandre 👋
 
-- 🔭 I’m currently working on ... Nothing! 😆 If you got any work oportunities, feel free to contact me! (email below)
+<!-- - 🔭 I’m currently working on ... Nothing! 😆 If you got any work oportunities, feel free to contact me! (email below) -->
 - 🌱 I’m currently learning Docker, SQL and Back End basics...
 - 👯 I’m looking to collaborate on Front End projects such as React or Vanilla JS
 - 📫 Contact me via email: alexandreeduardolemes@gmail.com
